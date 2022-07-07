@@ -1,0 +1,268 @@
+body{
+    padding: o;
+    margin: o;
+}
+/*showcase*/
+ #showcase{
+     min-height:0 ;
+     background-image:url('ok.jpg') ;
+     background-position: 0;
+     height: 470px;
+     width: 47%;
+     color:black;
+     margin: auto;
+     float:right;
+     text-align: center;
+ }
+ .hea{
+padding-left: 110px;
+ }
+ 
+ h2{
+     color:black;
+     font-family: Franklin Gothic;
+     font-size: 17x;
+     padding: 7px;
+     margin-left: 30px;
+     font-style:Demi ;
+     padding-left:3px;
+ }
+ img{
+     height:90px;
+     width:90px;
+     float:left;
+     margin-left: 35px;
+     margin-top: 50px;
+ }
+ P{
+     font-family: Segoe UI;
+     margin-left: 40px;
+     font-style:Semibold;
+ }
+ .h3{
+     color:black;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 17x;
+     padding: 7px;
+     margin-left: 100px;
+     padding-right: 50px;
+    padding-left: 50px; 
+ }
+ .left{
+ width:50%;
+ height:700px;
+ float: right;
+ margin-top: auto;
+}
+.right{
+    width:50%;
+ height:600px;
+ float: left;
+}
+.form{
+    text-align: center;
+}
+.form p{
+    margin-left:80px ;
+}
+.form button{
+    background:#333;
+    border:2px solid #333;
+    color: #fff;
+    border-radius: 5px;
+    padding: 12px 30px;
+    font-size: 20px;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left: 190px;
+}
+ .form input{
+     width:30%;
+     padding:15px 20px;
+     margin:20px 0;
+     border:none;
+     border-bottom: 2px solid #333;
+ }
+  .form input[type="checkbox"]{
+     height: 20px;
+     width:20px;
+     border-radius: 10px #333;
+     cursor: pointer;
+     float: left;
+     margin-left: 90px;
+    }
+    .form input[type="checkbox"]:hover{
+        background-color: #333;
+    }
+ .cau{
+    padding-left:100px;
+    margin-right: 150px;
+    margin-bottom: 20px;
+ }
+ .footer{
+     width: 100%;
+     background:#333;
+     color:#efefef;
+     display:flex;
+     margin-top:100px;
+ }  
+.col-2{
+    flex-grow: 2;
+    text-align:center;
+}
+.footer div h2{
+    FONT-WEIGHT:300;
+    margin: buttom 30px;
+    letter-spacing: 1px;
+    color:#efeefe;
+}
+.col-1{
+    display:block;
+    text-decoration:none;
+    color:#efeefe;
+    margin-bottom:0;
+    padding-right: 100px;
+}
+.col-3{
+    float:right;
+    margin-right: 100px;
+    padding-left: 150px;
+}
+
+a{
+    display:block;
+    text-decoration: none;
+    color:white;
+    margin-bottom:10px;
+}
+.un{
+    padding-right: 20px;
+}
+.logo{
+    height:45px;
+    float:left;
+    width:50px;
+    margin: auto;
+    padding-left: 60px;
+}
+.span{
+    margin-left:20px;
+}
+.flex{
+    display: flex;
+}
+.top a{
+    display:block;
+    text-decoration: none;
+    color:black;
+    margin-left:600px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    margin-top: 1px;
+}
+.end{
+    text-align:left;
+}
+.end a{
+    display:inline-block;
+    text-decoration: none;
+    color:black;
+    margin-left:50px;
+    margin-top: 1px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+}
+.end button{
+    background:#333;
+    border:2px solid #333;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 10px;
+    font-size: 14px;
+    cursor: pointer;
+    margin-top: 9px;
+    margin-left: 210px;
+    width: 100px;
+
+}
+.nav{
+    margin: 80px;
+    margin-top: 120px;;
+    
+}
+.nav h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav p{
+    font-size: 15px;
+    margin-left: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navl button{
+    background:#333;
+    border:2px solid #333;
+    color: #fff;
+    border-radius: 9px;
+    padding: 5px 5px;
+    font-size: 14px;
+    cursor: pointer;
+    margin-top: 9px;
+    margin-left: 1px;
+    width: 110px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.navl a{
+    display:inline-block;
+    text-decoration: none;
+    color:black;
+    margin-left:50px;
+    margin-top: 9px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logoa{
+    font-size: 10px;
+    margin-left:30px;
+    color: antiquewhite;
+}
+.first{
+    width:54%;
+    height:587px;
+    margin: auto;
+}
+.vic {
+    margin:10px;
+
+}
+.vic h3{
+    text-align:right;
+    margin-right:340px;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-style: initial;
+}
+  .hkp{
+      margin:20px;
+  }
+  .imaga{
+    height:120px;
+    width:120px;
+    margin-top:30px;
+    margin-right:20px;
+  }
+.h4{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:15px;
+    padding-left: 110px;
+  }
+.vic p{
+    font-size: 12px;
+}
+.vic rume{
+    font-size:11px;
+}
+
+
+
+
